@@ -8,7 +8,7 @@ var sun, sunImg;
 var restart, restartImg;
 var gameOver, gameOverImg;
 
-var score = 3000;
+var score = 0;
 var coins = 0;
 
 var PLAY = 0;
